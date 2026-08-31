@@ -1,4 +1,3 @@
-<img width="3024" height="4032" alt="IMG_3399" src="https://github.com/user-attachments/assets/d368ede4-00df-4b62-b3bd-a75ecf9096f6" />
 # MeArm Inverse kinematics
 Author: **Jake Briscoe** University of Bath
 
