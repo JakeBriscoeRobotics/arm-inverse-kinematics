@@ -1,4 +1,4 @@
-# MeArm Forward kinematics
+# MeArm Inverse kinematics
 Author: **Jake Briscoe** University of Bath
 
 **Objective**
@@ -7,7 +7,7 @@ desired position (x y,z) from user input by converting the maths into programmin
 is possible.
 
 **Plan**
-Implement functional Forward Kinematic control using serial monitor to test and verify
+Implement functional Inverse Kinematic control using serial monitor to test and verify
 Once verify, apply Inverse Kinematic theory into code and verify physically with a ruler.
 
 **Measurements**
