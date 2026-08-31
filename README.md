@@ -1,3 +1,4 @@
+<img width="3024" height="4032" alt="IMG_3399" src="https://github.com/user-attachments/assets/d368ede4-00df-4b62-b3bd-a75ecf9096f6" />
 # MeArm Inverse kinematics
 Author: **Jake Briscoe** University of Bath
 
@@ -24,3 +25,7 @@ It was observed during testing that the servos couldn't support the weight of fu
 For elbow: 10 to 140 deg
 For shoulder: 40 to 180 deg
 For Base: 0 to 180 deg
+
+**Maths Required**
+<img width="3024" height="4032" alt="IMG_3399" src="https://github.com/user-attachments/assets/ca0511a1-7b6c-4d7a-b7e3-a8bbe89a3dd2" />
+
